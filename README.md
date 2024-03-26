@@ -1,2 +1,2 @@
-# Inteligent_Agents
-This Masters-level course provides an advanced study of intelligent agents, a foundational concept in artificial intelligence. Intelligent agents are autonomous entities capable of perceiving their environment and making decisions to achieve their goals.
+## Course Description
+This Masters-level course provides an advanced study of intelligent agents, a foundational concept in artificial intelligence. Intelligent agents are autonomous entities capable of perceiving their environment and making decisions to achieve their goals. In this course, students will explore both theoretical principles and practical techniques for designing, implementing, and deploying intelligent agents across various applications.
